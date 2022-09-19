@@ -1,4 +1,6 @@
-# Weclome to the OpenAPI Initiative's Community Repo
+# Weclome to the OpenAPI Initiative's Community Repo!
+
+This repo is intended to be the hub for engagement with the OpenAPI Initiative and provide guidance for community members - that's you! - on the best ways to strengthen, enhance and grow the OpenAPI Spec (OAS) ecosystem. Whether you are brand new to APIs or a long-in-the-tooth practitioner we are excited for you to be here. 
 
 | Leverage  | Contribute | Support |
 | ------------- | ------------- | ------------- |
@@ -9,6 +11,8 @@
 | | [Join us on Slack](https://communityinviter.com/apps/open-api/openapi) |
 | | [Join us on Discord](https://discord.gg/3kJKfTbZYd) | |
 
+
+# FAQ's
 ## What is the OpenAPI Initiative
 The OpenAPI Initiative (OAI) was created by a consortium of forward-looking industry experts who recognize the immense value of standardizing on how APIs are described. As an open governance structure under the Linux Foundation, the OAI is focused on creating, evolving and promoting a vendor neutral description format.
 
