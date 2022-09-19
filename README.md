@@ -4,9 +4,10 @@
 | ------------- | ------------- | ------------- |
 | [Documentation](https://oai.github.io/Documentation/)  | [Join our technical calls](https://github.com/OAI/OpenAPI-Specification#participation)  | [Become a member organization](https://enrollment.lfx.linuxfoundation.org/?project=openapi) |
 | [Versions](https://github.com/OAI/OpenAPI-Specification/releases) | [Review proposed changes](https://github.com/OAI/OpenAPI-Specification/pulls)   | [Star the Repo](https://github.com/OAI/OpenAPI-Specification/stargazers)  |
-| | [Join the discussion](https://github.com/OAI/OpenAPI-Specification/issues) | [Follow us on Twitter](https://twitter.com/OpenApiSpec) |
+| | [Join the discussion on GitHub](https://github.com/OAI/OpenAPI-Specification/issues) | [Follow us on Twitter](https://twitter.com/OpenApiSpec) |
 | | [Learn about and join working groups](./SPECIAL_INTEREST_GROUPS.md) | [Join us on LinkedIn](https://www.linkedin.com/groups/8556951/) |
-
+| | [Join us on Slack](https://communityinviter.com/apps/open-api/openapi) |
+| | [Join us on Discord](https://discord.gg/3kJKfTbZYd) | |
 
 ## What is the OpenAPI Initiative
 The OpenAPI Initiative (OAI) was created by a consortium of forward-looking industry experts who recognize the immense value of standardizing on how APIs are described. As an open governance structure under the Linux Foundation, the OAI is focused on creating, evolving and promoting a vendor neutral description format.
