@@ -13,7 +13,7 @@ Currently, there are two types of SIGs that have emerged to move forward some as
 | SIG  | Description | Type | Repo | Slack |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | [Overlays](./SIGs/OVERLAYS.md) | SIG focused on defining the overlays specification for OAS | Technical focus | [repo](https://github.com/OAI/Overlay-Specification) | [slack](https://open-api.slack.com/archives/C023Y5YJ474) |
-| Security | SIG focused on moving forward security portions of the specification | Technical focus | [repo](https://github.com/OAI/sig-security) | [slack](https://open-api.slack.com/archives/C97Q5AQ9J) |
+| [Security](./SIGs/SECURITY.md) | SIG focused on moving forward security portions of the specification | Technical focus | [repo](https://github.com/OAI/sig-security) | [slack](https://open-api.slack.com/archives/C97Q5AQ9J) |
 | [Workflows](./SIGs/WORKFLOWS.md) | SIG focused on building workflows with multiple APIs using OAS | Technical focus | [repo](https://github.com/OAI/sig-workflows) | [slack](https://open-api.slack.com/archives/C022K8VD7AP) |
 | Service Level Agreement | SIG focused on the SLA extension being developed | Technical focus | [repo](https://github.com/isa-group/SLA4OAI-ResearchSpecification) |  |
 | Codegen | SIG focused on moving forward the code generation from specifications | Technical focus |  | [slack](https://open-api.slack.com/archives/C024AQQHRCH) |
