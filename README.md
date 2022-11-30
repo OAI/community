@@ -1,4 +1,4 @@
-# Weclome to the OpenAPI Initiative's Community Repo!
+# Welcome to the OpenAPI Initiative's Community Repo!
 
 This repo is intended to be the hub for engagement with the OpenAPI Initiative and provide guidance for community members - that's you! - on the best ways to strengthen, enhance and grow the OpenAPI Spec (OAS) ecosystem. Whether you are brand new to APIs or a long-in-the-tooth practitioner we are excited for you to be here. 
 
@@ -26,6 +26,9 @@ The OpenAPI Spec is an open-source, community maintained specification, lead by 
 Members of OpenAPI have formed a variety of special interest groups (SIGs) that work as a group to address a defined set of issues or objectives. There are two basic types of SIGs, technical and industry focused. The technical SIGs focus on a specific feature like overlays. The results of these SIGs may end up as an update to the OAS or a separate guideline or specification. The industry SIGs look at a broader scope of how the OAS applies to an industry segment. This facilitates two way communication. Inbound to OAI what are the challenges an industry segment is facing in the form of real world use cases to determine if the OAS holds up. Gaps may become a focus of a technical SIG. Outbound the SIGs communicate to an industry segment how the OAS meets their needs which may include reference implementations. The value of both directions of this communication is providing the relevancy of the OAS to address the challenges of an industry.
 
 More information on the SIGs can be found [here](./SPECIAL_INTEREST_GROUPS.md)
+
+## How do I join?
+If you have questions about joining the OpenAPI Initiative, [please contact us here in order to set up a call with us](https://www.openapis.org/membership/join). We'll be happy to answer all your questions!
 
 ## Additional frequently asked questions
 Please see the [FAQ](https://www.openapis.org/faq) on the OpenAPI Initiative website.
