@@ -1,4 +1,4 @@
-# Weclome to the OpenAPI Initiative's Community Repo!
+# Welcome to the OpenAPI Initiative's Community Repo!
 
 This repo is intended to be the hub for engagement with the OpenAPI Initiative and provide guidance for community members - that's you! - on the best ways to strengthen, enhance and grow the OpenAPI Spec (OAS) ecosystem. Whether you are brand new to APIs or a long-in-the-tooth practitioner we are excited for you to be here. 
 
