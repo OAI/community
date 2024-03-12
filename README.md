@@ -4,7 +4,7 @@ This repo is intended to be the hub for engagement with the OpenAPI Initiative a
 
 | Leverage  | Contribute | Support |
 | ------------- | ------------- | ------------- |
-| [Documentation](https://oai.github.io/Documentation/)  | [Join our technical calls](https://github.com/OAI/OpenAPI-Specification#participation)  | [Become a member organization](https://enrollment.lfx.linuxfoundation.org/?project=openapi) |
+| [Documentation](https://learn.openapis.org/)  | [Join our technical calls](https://github.com/OAI/OpenAPI-Specification#participation)  | [Become a member organization](https://enrollment.lfx.linuxfoundation.org/?project=openapi) |
 | [Versions](https://github.com/OAI/OpenAPI-Specification/releases) | [Review proposed changes](https://github.com/OAI/OpenAPI-Specification/pulls)   | [Star the Repo](https://github.com/OAI/OpenAPI-Specification/stargazers)  |
 | | [Join the discussion on GitHub](https://github.com/OAI/OpenAPI-Specification/issues) | [Follow us on Twitter](https://twitter.com/OpenApiSpec) |
 | | [Learn about and join working groups](./SPECIAL_INTEREST_GROUPS.md) | [Join us on LinkedIn](https://www.linkedin.com/groups/8556951/) |
