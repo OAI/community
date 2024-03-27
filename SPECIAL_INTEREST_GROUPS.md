@@ -2,25 +2,27 @@
 
 ## Overview
 
-This is an overview of the Special Interest Groups (SIG) created within the OpenAPI Initiative (OAI), working to provide a simple overview of what SIGs are, how they operate, and how they can contribute to moving forward the conversation around the OpenAPI Specification (OAS) and wider API landscape. 
+This is an overview of the Special Interest Groups (SIG) created within the OpenAPI Initiative (OAI), working to provide a simple overview of what SIGs are, how they operate, and how they can contribute to moving forward the conversation around the OpenAPI Specification (OAS) and wider API landscape.
 
-Currently, there are two types of SIGs that have emerged to move forward some aspect of using OAS. 
+Currently, there are two types of SIGs that have emerged to move forward some aspect of using OAS.
+
 - The first one being about establishing and developing specific extensions to OAS, with some eventually becoming a formal part of the specification, or remaining as an extension, or overlay to the spec, or possibly as an independent specification.
 - The second type of SIG is more focused on the usage of OAS in service of a specific industry, which may eventually contribute changes, extensions, or overlays to OAS, but will be more likely about coordination across OAS usage within specific industry.
 
 ## List of Special Interest Groups
 
-| SIG  | Description | Type | Repo | Slack |
-| ------------- | ------------- | ------------- | ------------- | ------------- |
-| [Overlays](./SIGs/OVERLAYS.md) | SIG focused on defining the overlays specification for OAS | Technical focus | [repo](https://github.com/OAI/Overlay-Specification) | [slack](https://open-api.slack.com/archives/C023Y5YJ474) |
-| [Security](./SIGs/SECURITY.md) | SIG focused on moving forward security portions of the specification | Technical focus | [repo](https://github.com/OAI/sig-security) | [slack](https://open-api.slack.com/archives/C97Q5AQ9J) |
-| [Workflows](./SIGs/WORKFLOWS.md) | SIG focused on building workflows with multiple APIs using OAS | Technical focus | [repo](https://github.com/OAI/sig-workflows) | [slack](https://open-api.slack.com/archives/C022K8VD7AP) |
-| Service Level Agreement | SIG focused on the SLA extension being developed | Technical focus | [repo](https://github.com/isa-group/SLA4OAI-ResearchSpecification) |  |
-| Codegen | SIG focused on moving forward the code generation from specifications | Technical focus |  | [slack](https://open-api.slack.com/archives/C024AQQHRCH) |
-| Formats | focused on the formats registry effort | Technical focus | [repo](https://github.com/OAI/sig-formats) |  |
-| Lifecycle | focused on defining the API lifecycle around an API being developed using OAS | Technical focus | [repo](https://github.com/OAI/sig-lifecycle) | [slack](https://open-api.slack.com/archives/C0250DURXPZ) |
-| [Travel](./SIGs/TRAVEL.md) | SIG focused on using OAS within the travel industry | Industry focus | [repo](https://github.com/OAI/sig-travel) | [slack](https://open-api.slack.com/archives/C0122NPKUR2) |
-| Finance | SIG focused on using OAS within the finance industry | Industry focus | [repo](https://github.com/OAI/sig-finance) |  |
+| SIG                              | Description                                                                   | Type            | Repo                                                               | Slack                                                    |
+| -------------------------------- | ----------------------------------------------------------------------------- | --------------- | ------------------------------------------------------------------ | -------------------------------------------------------- |
+| [Overlays](./SIGs/OVERLAYS.md)   | SIG focused on defining the overlays specification for OAS                    | Technical focus | [repo](https://github.com/OAI/Overlay-Specification)               | [slack](https://open-api.slack.com/archives/C023Y5YJ474) |
+| [Security](./SIGs/SECURITY.md)   | SIG focused on moving forward security portions of the specification          | Technical focus | [repo](https://github.com/OAI/sig-security)                        | [slack](https://open-api.slack.com/archives/C97Q5AQ9J)   |
+| [Workflows](./SIGs/WORKFLOWS.md) | SIG focused on building workflows with multiple APIs using OAS                | Technical focus | [repo](https://github.com/OAI/sig-workflows)                       | [slack](https://open-api.slack.com/archives/C022K8VD7AP) |
+| Service Level Agreement          | SIG focused on the SLA extension being developed                              | Technical focus | [repo](https://github.com/isa-group/SLA4OAI-ResearchSpecification) |                                                          |
+| Codegen                          | SIG focused on moving forward the code generation from specifications         | Technical focus |                                                                    | [slack](https://open-api.slack.com/archives/C024AQQHRCH) |
+| Formats                          | focused on the formats registry effort                                        | Technical focus | [repo](https://github.com/OAI/sig-formats)                         |                                                          |
+| Lifecycle                        | focused on defining the API lifecycle around an API being developed using OAS | Technical focus | [repo](https://github.com/OAI/sig-lifecycle)                       | [slack](https://open-api.slack.com/archives/C0250DURXPZ) |
+| [Travel](./SIGs/TRAVEL.md)       | SIG focused on using OAS within the travel industry                           | Industry focus  | [repo](https://github.com/OAI/sig-travel)                          | [slack](https://open-api.slack.com/archives/C0122NPKUR2) |
+| Finance                          | SIG focused on using OAS within the finance industry                          | Industry focus  | [repo](https://github.com/OAI/sig-finance)                         |                                                          |
+| Moonwalk                         | Focused on creating the next major version of OpenAPI                         | Technical focus | [repo](https://github.com/OAI/sig-moonwalk)                        | [slack](https://open-api.slack.com/archives/C06A0RPNPGE) |
 
 ## SIG Building Blocks
 
@@ -38,7 +40,8 @@ These are some of the commonly recommended building blocks to help move each SIG
 None of these are required but should provide a set of common practices to consider. If there are other requirements like calendar, document management, and other building blocks in use, please let us know so that we can add to this list and inform each of the existing SIGs, as well as new ones.
 
 ## OpenAPI Initiative SIG Structure and Process
-It was decided in May of 2021 to go with a less formal approach to starting up and operating SIGs to encourage their formation and evolution. The OAI depends on each group champion and leader to define and manage each SIG and contribute to existing OAI projects, groups, and discussions. There is no formal OAI structure or process for how SIGs should operate, with this document being just one attempt at documenting what is currently happening. 
+
+It was decided in May of 2021 to go with a less formal approach to starting up and operating SIGs to encourage their formation and evolution. The OAI depends on each group champion and leader to define and manage each SIG and contribute to existing OAI projects, groups, and discussions. There is no formal OAI structure or process for how SIGs should operate, with this document being just one attempt at documenting what is currently happening.
 
 This description contained in this ReadMe, [Issue 21](https://github.com/OAI/Projects/issues/12), as well as the supporting [Kanban board](https://github.com/OAI/Projects/projects/23) is an attempt to continue formalizing and communicating the structure and process for SIGs but does not claim to be the formal process, or is comprehensive.
 
