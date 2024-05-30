@@ -3,7 +3,7 @@ description: "Request form to create a SIG under the OAI. Please provide a brief
 title: "[Request to Create SIG]: "
 labels: SIG, creationn-request
 assignees:
-  - namdeirf
+  - ncaidin
 body:
   - type: markdown
     attributes:
