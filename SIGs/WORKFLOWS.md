@@ -1,4 +1,4 @@
-# The Travel Special Interest Group (SIG)
+# The Workflows Special Interest Group (SIG)
 
 This readme contains some high level information on the OpenAPI Initiative special interest group for workflows.
 
