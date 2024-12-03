@@ -27,5 +27,8 @@ Members of OpenAPI have formed a variety of special interest groups (SIGs) that 
 
 More information on the SIGs can be found [here](./SPECIAL_INTEREST_GROUPS.md)
 
+## How do I join?
+If you have questions about joining the OpenAPI Initiative, [please contact us here in order to set up a call with us](https://www.openapis.org/membership/join). We'll be happy to answer all your questions!
+
 ## Additional frequently asked questions
 Please see the [FAQ](https://www.openapis.org/faq) on the OpenAPI Initiative website.
